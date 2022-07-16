@@ -1,13 +1,20 @@
-# Chalenges
+ Chalenges
 Deep dive in Advent of Code
 https://adventofcode.com
 
-the purpose of this project is to sharpen my skills and get more familiar to solving coding problems.
+The purpose of this project is to sharpen my skills and get more familiar by solving coding problems.
+I am currently reading java ,so this project is accomplished with java.
+You may need to hope in the AoC site to get your input files.
+
 
 <h2><a name="exactline">Day 1</a></h2>
 
-Day 1 
-<h2> <a"#exactline"</a> </h2>
+
+
+
+
+
+<h2> <a"#exactline">Day 1</a> </h2>
 
 --- Day 1: Sonar Sweep ---
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
