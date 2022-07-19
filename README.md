@@ -3,8 +3,8 @@ Deep dive in Advent of Code
 https://adventofcode.com
 
 The purpose of this project is to sharpen my skills and get more familiar by solving coding problems.
-I am currently learnig java ,so this project is accomplished with java.
-You may need to hope in the AoC site to get your input files.
+I am currently learning java ,so this project is accomplished with java.
+You may need to hop in the AoC site to get your input files.
 
 
 <h2><a href="#1">--- Day 1: Sonar Sweep ---</a></h2>
